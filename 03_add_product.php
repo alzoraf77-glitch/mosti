@@ -1,3 +1,4 @@
+#edit by mohammed-alzoraf
 <?php
 require_once 'config.php';
 $model = new ProductModel();
